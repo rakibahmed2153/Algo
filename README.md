@@ -1,3 +1,6 @@
 # Algorithum
-=> Linear Search
-=> Binary Search
+---------------------
+<ol> 
+ <li>Linear Search</li>
+ <li>Binary Search</li>
+<ol>
