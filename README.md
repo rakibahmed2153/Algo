@@ -1,5 +1,5 @@
 # Algorithm
----------------------
+<hr/>
 <ol> 
  <li>Linear Search</li>
  <li>Binary Search</li>
